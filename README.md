@@ -19,7 +19,7 @@
 
 IT professional transitioning into cybersecurity, with hands-on experience managing production infrastructure and a strong focus on network security, hardening, and secure service deployment.
 
-I have designed and operated a self-hosted homelab environment with 10+ services in production, protected through Cloudflare Tunnels, dual VPN (WireGuard + Tailscale), and strict network segmentation. Professionally, I have worked as an IT Infrastructure & Security Consultant, implementing Docker-based deployments, VPN solutions, reverse proxies, and automated backup systems.
+I have designed and operated a self-hosted homelab environment with 10+ services in production, protected through Cloudflare Tunnels, dual VPN (WireGuard + Tailscale), and strict network segmentation.[...]
 
 Currently completing the **Cybersecurity track at IT Academy Barcelona Activa** (386h, Cisco Networking Academy — SOC Analyst Level 1 path) and finishing my degree at **42 Barcelona**.
 
@@ -55,7 +55,7 @@ Currently completing the **Cybersecurity track at IT Academy Barcelona Activa** 
 
 ### 🔒 [Inception — Docker Infrastructure (42 Barcelona)](https://github.com/MaxMaltas/Inception)
 
-Multi-container production environment built from scratch using Docker Compose. Custom Dockerfiles for NGINX (TLS 1.2/1.3), WordPress + PHP-FPM, and MariaDB — without using pre-built images. Demonstrates container isolation, volume management, and secure service orchestration.
+Multi-container production environment built from scratch using Docker Compose. Custom Dockerfiles for NGINX (TLS 1.2/1.3), WordPress + PHP-FPM, and MariaDB — without using pre-built images. Demonst[...]
 
 `Docker` `Docker Compose` `NGINX` `TLS` `MariaDB` `WordPress` `Linux`
 
@@ -63,9 +63,17 @@ Multi-container production environment built from scratch using Docker Compose. 
 
 ### 🏓 [ft_transcendence — Secure Full-Stack Web App (42 Barcelona)](https://github.com/MaxMaltas/testing)
 
-Full-stack multiplayer Pong platform with a focus on application security. Implements OAuth 2.0 (42 API), JWT authentication, Two-Factor Authentication (TOTP), and a microservices architecture fully containerised with Docker.
+Full-stack multiplayer Pong platform with a focus on application security. Implements OAuth 2.0 (42 API), JWT authentication, Two-Factor Authentication (TOTP), and a microservices architecture fully c[...]
 
 `TypeScript` `Docker` `OAuth2` `JWT` `2FA` `Microservices` `WebSockets`
+
+-----
+
+### 🎬 [Auto-Generate-Video-Clip](https://github.com/MaxMaltas/Auto-Generate-Video-Clip)
+
+Automated pipeline to generate short video clips (auto-cut/edit) from source content.
+
+`Python` `Automation` `Video`
 
 -----
 
@@ -73,7 +81,7 @@ Full-stack multiplayer Pong platform with a focus on application security. Imple
 
 Writeups from the 42 Barcelona Cybersecurity Discovery Piscine. Covers forensic analysis, PCAP inspection, log analysis, and introductory CTF challenges. Documented methodology for each exercise.
 
-`CTF` `Forensics` `PCAP` `Log Analysis` `Wireshark`
+`CTF` `Forensics` `PCAP` `Log Analysis` `Wireshields.ioark`
 
 -----
 
