@@ -55,7 +55,7 @@ Currently completing the **Cybersecurity track at IT Academy Barcelona Activa** 
 
 ### 🔒 [Inception — Docker Infrastructure (42 Barcelona)](https://github.com/MaxMaltas/Inception)
 
-Multi-container production environment built from scratch using Docker Compose. Custom Dockerfiles for NGINX (TLS 1.2/1.3), WordPress + PHP-FPM, and MariaDB — without using pre-built images. Demonst[...]
+Multi-container production environment built from scratch using Docker Compose. Custom Dockerfiles for NGINX (TLS 1.2/1.3), WordPress + PHP-FPM, and MariaDB — without using pre-built images. Dem[...]
 
 `Docker` `Docker Compose` `NGINX` `TLS` `MariaDB` `WordPress` `Linux`
 
@@ -63,7 +63,7 @@ Multi-container production environment built from scratch using Docker Compose. 
 
 ### 🏓 [ft_transcendence — Secure Full-Stack Web App (42 Barcelona)](https://github.com/MaxMaltas/testing)
 
-Full-stack multiplayer Pong platform with a focus on application security. Implements OAuth 2.0 (42 API), JWT authentication, Two-Factor Authentication (TOTP), and a microservices architecture fully c[...]
+Full-stack multiplayer Pong platform with a focus on application security. Implements OAuth 2.0 (42 API), JWT authentication, Two-Factor Authentication (TOTP), and a microservices architecture ful[...]
 
 `TypeScript` `Docker` `OAuth2` `JWT` `2FA` `Microservices` `WebSockets`
 
@@ -71,9 +71,9 @@ Full-stack multiplayer Pong platform with a focus on application security. Imple
 
 ### 🎬 [Auto-Generate-Video-Clip](https://github.com/MaxMaltas/Auto-Generate-Video-Clip)
 
-Automated pipeline to generate short video clips (auto-cut/edit) from source content.
+Internal tool to automate the creation of broadcast-ready video clips from images and an editable rundown (template-driven), with FFmpeg rendering and LAN collaboration.
 
-`Python` `Automation` `Video`
+`Python` `Flask` `FFmpeg` `Pillow` `Automation` `Video`
 
 -----
 
