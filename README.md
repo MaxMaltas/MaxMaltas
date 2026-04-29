@@ -51,6 +51,16 @@ Currently completing the **Cybersecurity track at IT Academy Barcelona Activa** 
 
 -----
 
+## 🚧 Under Construction
+
+### 🏗️ [REFORMALTAS — PWA for Quotes & Job Management](https://github.com/MaxMaltas/REFORMALTAS)
+
+Offline-first PWA for a small construction business to manage clients, site visits (measurements + photos), and generate/share quotes quickly (PDF + WhatsApp). Built with an AI-assisted workflow (Claude.ai) using multi-agent orchestration (agents, skills, command hooks, and rules) to bootstrap the initial implementation.
+
+`React` `Vite` `JavaScript` `PWA` `Supabase` `Zustand` `AI-Assisted`
+
+-----
+
 ## 🚀 Featured Projects
 
 ### 🔒 [Inception — Docker Infrastructure (42 Barcelona)](https://github.com/MaxMaltas/Inception)
@@ -81,7 +91,7 @@ Internal tool to automate the creation of broadcast-ready video clips from image
 
 Writeups from the 42 Barcelona Cybersecurity Discovery Piscine. Covers forensic analysis, PCAP inspection, log analysis, and introductory CTF challenges. Documented methodology for each exercise.
 
-`CTF` `Forensics` `PCAP` `Log Analysis` `Wireshields.ioark`
+`CTF` `Forensics` `PCAP` `Log Analysis` `Wireshark`
 
 -----
 
